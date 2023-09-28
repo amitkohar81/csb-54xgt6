@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "464cacbc0dbc17ef665e9c97afc76120",
+    "revision": "e8e1c3341bafae839fb06fbbc12b3717",
     "url": "https://.github.io/csb-54xgt6/index.html"
   },
   {
-    "revision": "af82d4d850c70a642132",
-    "url": "https://.github.io/csb-54xgt6/static/js/2.3e0e6386.chunk.js"
+    "revision": "74fb989ecb136d8a5f55",
+    "url": "https://.github.io/csb-54xgt6/static/js/2.5e24eb83.chunk.js"
   },
   {
     "revision": "9f8965eb6701d46c384ed044934c25a9",
-    "url": "https://.github.io/csb-54xgt6/static/js/2.3e0e6386.chunk.js.LICENSE"
+    "url": "https://.github.io/csb-54xgt6/static/js/2.5e24eb83.chunk.js.LICENSE"
   },
   {
     "revision": "f3fe7607ab5f70d3f547",

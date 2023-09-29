@@ -4,16 +4,16 @@
     "main.js.map": "https://.github.io/csb-54xgt6/static/js/main.b1b3eb1f.chunk.js.map",
     "runtime-main.js": "https://.github.io/csb-54xgt6/static/js/runtime-main.accbf82a.js",
     "runtime-main.js.map": "https://.github.io/csb-54xgt6/static/js/runtime-main.accbf82a.js.map",
-    "static/js/2.5e24eb83.chunk.js": "https://.github.io/csb-54xgt6/static/js/2.5e24eb83.chunk.js",
-    "static/js/2.5e24eb83.chunk.js.map": "https://.github.io/csb-54xgt6/static/js/2.5e24eb83.chunk.js.map",
+    "static/js/2.5aebe2ab.chunk.js": "https://.github.io/csb-54xgt6/static/js/2.5aebe2ab.chunk.js",
+    "static/js/2.5aebe2ab.chunk.js.map": "https://.github.io/csb-54xgt6/static/js/2.5aebe2ab.chunk.js.map",
     "index.html": "https://.github.io/csb-54xgt6/index.html",
-    "precache-manifest.44f1c533d1d54abf59f196f113116196.js": "https://.github.io/csb-54xgt6/precache-manifest.44f1c533d1d54abf59f196f113116196.js",
+    "precache-manifest.4c6bd5543bb4d6f600061ee0a4f8cb0b.js": "https://.github.io/csb-54xgt6/precache-manifest.4c6bd5543bb4d6f600061ee0a4f8cb0b.js",
     "service-worker.js": "https://.github.io/csb-54xgt6/service-worker.js",
-    "static/js/2.5e24eb83.chunk.js.LICENSE": "https://.github.io/csb-54xgt6/static/js/2.5e24eb83.chunk.js.LICENSE"
+    "static/js/2.5aebe2ab.chunk.js.LICENSE": "https://.github.io/csb-54xgt6/static/js/2.5aebe2ab.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.accbf82a.js",
-    "static/js/2.5e24eb83.chunk.js",
+    "static/js/2.5aebe2ab.chunk.js",
     "static/js/main.b1b3eb1f.chunk.js"
   ]
 }
